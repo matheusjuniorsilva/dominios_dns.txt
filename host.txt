@@ -3,7 +3,6 @@
 127.0.0.1 www.twitter.com
 127.0.0.1 www.instagram.com
 127.0.0.1 www.tiktok.com
-127.0.0.1 web.whatsapp.com
 #Streaming
 127.0.0.1 www.youtube.com
 127.0.0.1 music.youtube.com
