@@ -1,0 +1,38 @@
+#redes_sociais
+127.0.0.1 pt-br.facebook.com
+127.0.0.1 web.facebook.com
+127.0.0.1 www.twitter.com
+127.0.0.1 www.instagram.com
+127.0.0.1 www.tiktok.com
+127.0.0.1 web.whatsapp.com
+#Streaming
+127.0.0.1 www.youtube.com
+127.0.0.1 music.youtube.com
+127.0.0.1 www.starplus.com
+127.0.0.1 www.assine.telecine.com.br
+127.0.0.1 www.netflix.com
+127.0.0.1 www.disneyplus.com
+#noticias
+127.0.0.1 www.g1.globo.com
+127.0.0.1 www.terra.com.br
+127.0.0.1 www.msn.com
+127.0.0.1 www.uol.com.br
+127.0.0.1 www.portaldoholanda.com.br
+127.0.0.1 www.g1.am.com
+127.0.0.1 www.acritica.com
+127.0.0.1 www.d24.com
+#comprasenegocios
+127.0.0.1 www.am.olx.com.br
+127.0.0.1 www.bemol.com.br
+127.0.0.1 www.mercadolivre.com
+127.0.0.1 www.aliexpress.com
+127.0.0.1 www.msn.com
+127.0.0.1 www.c6bank.com.br 
+127.0.0.1
+127.0.0.1
+127.0.0.1
+#Outros
+127.0.0.1 www.save-insta.com
+127.0.0.1 www.frasesparawhats.com.br
+127.0.0.1 www.pensador.com
+127.0.0.1 www.conversormp3.org
