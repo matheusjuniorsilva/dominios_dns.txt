@@ -21,8 +21,10 @@
 127.0.0.1 www.acritica.com
 127.0.0.1 www.d24.com
 127.0.0.1 ge.globo.com
+127.0.0.1 www.portaldozacarias.com.br
+127.0.0.1 www.cm7brasil.com
 #comprasenegocios
-127.0.0.1 www.am.olx.com.br
+127.0.0.1 www.olx.com.br
 127.0.0.1 www.bemol.com.br
 127.0.0.1 www.mercadolivre.com
 127.0.0.1 www.aliexpress.com
