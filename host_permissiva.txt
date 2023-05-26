@@ -4,10 +4,7 @@
 127.0.0.1 www.twitter.com
 127.0.0.1 www.instagram.com
 127.0.0.1 www.tiktok.com
-127.0.0.1 web.whatsapp.com
 #Streaming
-127.0.0.1 www.youtube.com
-127.0.0.1 music.youtube.com
 127.0.0.1 www.starplus.com
 127.0.0.1 www.assine.telecine.com.br
 127.0.0.1 www.netflix.com
@@ -21,6 +18,8 @@
 127.0.0.1 www.g1.am.com
 127.0.0.1 www.acritica.com
 127.0.0.1 www.d24.com
+127.0.0.1 www.portaldozacarias.com.br
+127.0.0.1 www.cm7brasil.com
 #comprasenegocios
 127.0.0.1 www.am.olx.com.br
 127.0.0.1 www.bemol.com.br
