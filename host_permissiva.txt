@@ -1,44 +1,52 @@
 #redes_sociais
-127.0.0.1 pt-br.facebook.com
-127.0.0.1 web.facebook.com
-127.0.0.1 twitter.com
-127.0.0.1 instagram.com
-127.0.0.1 tiktok.com
+127.0.0.1 www.pt-br.facebook.com
+127.0.0.1 www.web.facebook.com
+127.0.0.1 www.twitter.com
+127.0.0.1 www.instagram.com
+127.0.0.1 www.tiktok.com
 
 #Streaming
-127.0.0.1 starplus.com
-127.0.0.1 assine.telecine.com.br
-127.0.0.1 netflix.com
-127.0.0.1 disneyplus.com
-127.0.0.1 primevideo.com
-127.0.0.1 hbomax.com
-127.0.0.1 spotify.com
-127.0.0.1 tv.apple.com
+127.0.0.1 www.starplus.com
+127.0.0.1 www.assine.telecine.com.br
+127.0.0.1 www.netflix.com
+127.0.0.1 www.disneyplus.com
+127.0.0.1 www.primevideo.com
+127.0.0.1 www.hbomax.com
+127.0.0.1 www.spotify.com
+127.0.0.1 www.tv.apple.com
 
 #noticias
-127.0.0.1 g1.globo.com
-127.0.0.1 terra.com.br
-127.0.0.1 msn.com
-127.0.0.1 uol.com.br
-127.0.0.1 portaldoholanda.com.br
-127.0.0.1 g1.am.com
-127.0.0.1 acritica.com
-127.0.0.1 d24.com
-127.0.0.1 portaldozacarias.com.br
-127.0.0.1 cm7brasil.com
+127.0.0.1 www.g1.globo.com
+127.0.0.1 www.terra.com.br
+127.0.0.1 www.msn.com
+127.0.0.1 www.uol.com.br
+127.0.0.1 www.portaldoholanda.com.br
+127.0.0.1 www.g1.am.com
+127.0.0.1 www.acritica.com
+127.0.0.1 www.d24.com
+127.0.0.1 www.portaldozacarias.com.br
+127.0.0.1 www.cm7brasil.com
 
 #comprasenegocios
-127.0.0.1 olx.com.br
-127.0.0.1 bemol.com.br
-127.0.0.1 mercadolivre.com
-127.0.0.1 aliexpress.com
-127.0.0.1 msn.com
-127.0.0.1 c6bank.com.br
-127.0.0.1
-127.0.0.1
+127.0.0.1 www.olx.com.br
+127.0.0.1 www.bemol.com.br
+127.0.0.1 www.mercadolivre.com
+127.0.0.1 www.aliexpress.com
+127.0.0.1 www.msn.com
+127.0.0.1 www.c6bank.com.br
+127.0.0.1 shopee.com.br
+127.0.0.1 br.shein.com
 127.0.0.1
 #Outros
-127.0.0.1 save-insta.com
-127.0.0.1 frasesparawhats.com.br
-127.0.0.1 pensador.com
-127.0.0.1 conversormp3.org
+127.0.0.1 www.save-insta.com
+127.0.0.1 www.frasesparawhats.com.br
+127.0.0.1 www.pensador.com
+127.0.0.1 www.conversormp3.org
+
+#regex
+
+edge.microsoft.com
+portaldozacarias-com-br.pushnews.eu
+(\.|^)netflix$
+(\.|^)instagram$
+(\.|^)acritica$
